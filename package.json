@@ -1,11 +1,11 @@
 {
-  "name": "linter-php",
+  "name": "linter-php-plus",
   "linter-package": true,
   "activationCommands": {},
   "main": "./lib/init",
   "version": "0.1.0",
   "description": "Lint PHP on the fly, using php -l",
-  "repository": "https://github.com/Cangit/linter-php",
+  "repository": "https://github.com/Cangit/linter-php-plus",
   "license": "MIT",
   "engines": {
     "atom": ">0.190.0"

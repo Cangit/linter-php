@@ -1,5 +1,4 @@
 # linter-php+
-=========================
 
 This package will lint your `.php` opened filed in Atom through [php -l](http://www.php.net/manual/en/features.commandline.options.php).
 

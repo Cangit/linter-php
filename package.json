@@ -3,7 +3,7 @@
   "linter-package": true,
   "activationCommands": {},
   "main": "./lib/init",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Lint PHP on the fly, using php -l",
   "repository": "https://github.com/Cangit/linter-php-plus",
   "license": "MIT",

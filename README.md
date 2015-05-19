@@ -1,4 +1,4 @@
-# linter-php
+# linter-php+
 =========================
 
 This package will lint your `.php` opened filed in Atom through [php -l](http://www.php.net/manual/en/features.commandline.options.php).
@@ -18,12 +18,7 @@ You can configure linter-php by editing ~/.atom/config.cson (choose Open Your Co
 ## Other available linters
 - [linter-phpcs](https://atom.io/packages/linter-phpcs) - Linter plugin for PHP, using phpcs.
 - [linter-phpmd](https://atom.io/packages/linter-phpmd) - Linter plugin for PHP, using phpmd.
-- [linter-jshint](https://atom.io/packages/linter-jshint) - Linter plugin for JavaScript, using jshint.
-- [linter-scss-lint](https://atom.io/packages/linter-scss-lint) - Sass Linter plugin for SCSS, using scss-lint.
-- [linter-coffeelint](https://atom.io/packages/linter-coffeelint) Linter plugin for CoffeeScript, using coffeelint.
-- [linter-csslint](https://atom.io/packages/linter-csslint) Linter plugin for CSS, using csslint.
-- [linter-rubocop](https://atom.io/packages/linter-rubocop) - Linter plugin for Ruby, using rubocop.
-- [linter-tslint](https://atom.io/packages/linter-tslint) Linter plugin for TypeScript, using tslint.
+- [linter-php](https://atom.io/packages/linter-php) - The linter plugin this one is forked from
 
-## Donation
-[![Share the love!](https://chewbacco-stuff.s3.amazonaws.com/donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KXUYS4ARNHCN8)
+## Forked with <3
+This is a fork from [linter-php](https://atom.io/packages/linter-php). Containing the latest pull requests and no deprecation warnings.
